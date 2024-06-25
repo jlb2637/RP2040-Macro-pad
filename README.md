@@ -14,3 +14,6 @@ https://www.digikey.com/en/maker/projects/hardware-design-with-the-rp2040-part-1
 I am planning on using QMK to set up the keyboard matrix later down the line.
 
 I will be updating this to post the schematics and layout once I have completed a design review.
+
+Here is a sneak peek of the pcb!
+![LayoutV1](https://github.com/jlb2637/RP2040-Macro-pad/assets/47393028/19f7c9ec-b4b3-462c-9d69-eac619953c21)
