@@ -11,7 +11,7 @@ https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
 https://www.digikey.com/en/maker/projects/hardware-design-with-the-rp2040-part-1-schematic/c4326f0fd813413698d617cf625125ee
 
 
-I am planning on using QMK to set up the keyboard matrix later down the line.
+I am planning on using QMK to set up the keyboard matrix, currently learning about its data-driven configuration!
 
 I will be updating this to post the schematics and layout once I have completed a design review.
 
